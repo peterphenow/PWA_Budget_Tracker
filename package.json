@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "lite-server": "lite-server",
-    "lint": "eslint \"./**/*.js\"",
+    "lint": "eslint **/*.js --quiet",
     "test": "npm run lint"
   },
   "repository": {
