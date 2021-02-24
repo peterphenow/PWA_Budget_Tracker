@@ -4,11 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "lite-server": "lite-server",
-    "lint": "eslint **/*.js --quiet",
-    "test": "npm run lint"
-
+    "lite-server": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -26,8 +24,5 @@
     "lite-server": "^2.5.3",
     "mongoose": "^5.11.15",
     "morgan": "^1.9.1"
-  },
-  "devDependencies": {
-    "eslint": "^7.20.0"
   }
 }
