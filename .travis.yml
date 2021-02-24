@@ -7,9 +7,5 @@ branches:
 cache:
   directories:
     - node_modules
-services:
-  - mysql
-before_install:
-  - mysql -e 'CREATE DATABASE IF NOT EXISTS passport_demo;'
 script:
   - npm run lint
