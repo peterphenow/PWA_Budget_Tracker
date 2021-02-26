@@ -16,7 +16,7 @@ The app is deployed on Heroku [here](https://budget-tracker-pcp.herokuapp.com/).
 
 ## **Screenshots**
 
-<img src="./public/assets/images/home-page.png" alt="home page" width="400" height="250">&nbsp;&nbsp;<img src="./public/assets/images/dashboard.png" alt="dashboard" width="400" height="250">
+<img src="./public/assets/images/Screenshot.png" alt="home page" width="450" height="250">
 
 ## **License**
 
